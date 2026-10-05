@@ -1,6 +1,4 @@
 # CPP_Projects
-No.1 Online Shoping System
-<br>
 No.2 Quiz Application
 <br>
 No.3 Attendance
