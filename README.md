@@ -1,6 +1,4 @@
 # CPP_Projects
-No.2 Quiz Application
-<br>
 No.3 Attendance
 <br>
 No.4 Rock Paper Sissor Game
