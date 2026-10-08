@@ -1,5 +1,4 @@
 # CPP_Projects
-No.3 
 <br>
 No.4 Rock Paper Sissor Game
 <br>
