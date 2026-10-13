@@ -1,6 +1,4 @@
 # CPP_Projects
-No.4 Rock Paper Sissor Game
-<br>
 No.5 Memory Card Game
 <br>
 No.6 Voting System
